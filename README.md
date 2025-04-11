@@ -1,8 +1,11 @@
 # linux
-
-1. ping - ping (server_name) 
- - checks if a particular server is reachable
-
+## Ping Command
+```
+ping 8.8.8.8
+```
+<pre>
+- checks if a particular server is reachable
+</pre>
 2. ifconfig - ifconfig 
  - shows IP address and network details
 
