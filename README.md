@@ -12,6 +12,9 @@ ping (IP)
 ping -c (no of iteration) (IP)
 ```
 <pre>
+- c = no of packets
+- checks if a particular server is reachable
+</pre>
 
 ## Ifconfig Command
 ```
