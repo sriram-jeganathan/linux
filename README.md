@@ -8,29 +8,70 @@ ping 8.8.8.8
 <pre>
 - checks if a particular server is reachable
 </pre>
-2. ifconfig - ifconfig 
+
+## Ifconfig Command
+```
+ifconfig 
+```
+<pre>
  - shows IP address and network details
+</pre>
 
-3. touch - touch (file_name).(extension)
+## Touch Command
+```
+3. touch (file_name).(extension)
+```
+<pre>
  - creates an empty text file
+</pre>
 
-4. mkdir - mkdir (folder_name)
- - creates a folder in current location or directory
+##  Directory Making Command
+```
+mkdir (folder_name)
+```
+<pre>
+ - creates a folder in present working directory
+</pre>
 
-5. useradd - sudo -m useradd (username)
+## Adding User Command
+```
+sudo -m useradd (username)
+```
+<pre>
  - creates a user. sudo is required as this program is for administrators
+</pre>
 
+## Deleting User Command
+```
 6. userdel - sudo userdel (username)
+```
+<pre>
  - deletes a user
+</pre>
 
-7. tree - tree (directory)
+## Tree Command
+```
+tree (directory)
+```
+<pre>
  - shows the current location with a tree format
+</pre>
 
-8. pwd - pwd
+## Present Working Directory Command
+```
+pwd
+```
+<pre>
  - shows the present working directory
+</pre>
 
-9. su - switch (user)
+## Switch User Command
+```
+switch (user)
+```
+<pre>
  - switches to a particular user with a password. if no username entered, it will enter be taken as admin if perms given
+</pre>
 
 10. rm - rm (file_name).(extension)
  - removes a file 
