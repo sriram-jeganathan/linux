@@ -3,6 +3,8 @@
 ```
 ping 8.8.8.8
 ```
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/6f64ef2c-adf1-4629-989e-201dc8287995" />
+
 <pre>
 - checks if a particular server is reachable
 </pre>
