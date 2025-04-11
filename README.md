@@ -1,12 +1,17 @@
 # linux
 ## Ping Command
 ```
-ping 8.8.8.8
+ping (IP)
 ```
 
 <pre>
 - checks if a particular server is reachable
 </pre>
+
+```
+ping -c (no of iteration) (IP)
+```
+<pre>
 
 ## Ifconfig Command
 ```
