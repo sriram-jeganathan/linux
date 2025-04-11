@@ -73,9 +73,19 @@ switch (user)
  - switches to a particular user with a password. if no username entered, it will enter be taken as admin if perms given
 </pre>
 
-10. rm - rm (file_name).(extension)
- - removes a file 
+## Removing File Command
+```
+rm (file_name).(extension)
+```
+<pre>
+ - removes a file
+</pre>
 
-11. rm - rm -r (folder_name)
- - removes the folder 
+## Removing Folder Command
+```
+rm -r (folder_name)
+```
+<pre>
+ - removes the folder
+</pre>
 
