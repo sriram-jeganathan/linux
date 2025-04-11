@@ -43,7 +43,7 @@ sudo -m useradd (username)
 
 ## Deleting User Command
 ```
-6. userdel - sudo userdel (username)
+userdel - sudo userdel (username)
 ```
 <pre>
  - deletes a user
