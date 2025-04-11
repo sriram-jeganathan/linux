@@ -18,7 +18,7 @@ ifconfig
 
 ## Touch Command
 ```
-3. touch (file_name).(extension)
+touch (file_name).(extension)
 ```
 <pre>
  - creates an empty text file
