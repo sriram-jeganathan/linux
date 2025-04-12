@@ -1,8 +1,10 @@
-# linux
+# Linux
 ## Ping Command
 ```
 ping (IP)
 ```
+Expected Output
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/bc2ef1e8-65ee-4eec-a9a8-7bec215222b7" />
 
 <pre>
 - checks if a particular server is reachable
@@ -11,6 +13,9 @@ ping (IP)
 ```
 ping -c (no of iteration) (IP)
 ```
+Expected Output
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/cc6a67a0-23a5-4e5d-bf83-222d23f28e6c" />
+
 <pre>
 - c = no of packets
 - checks if a particular server is reachable
@@ -20,6 +25,9 @@ ping -c (no of iteration) (IP)
 ```
 ifconfig 
 ```
+Expected Output
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/320c39e6-be4b-471c-bab9-88083f60070b" />
+
 <pre>
  - shows IP address and network details
 </pre>
@@ -28,6 +36,8 @@ ifconfig
 ```
 touch (file_name).(extension)
 ```
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/aa7baa38-fef0-4b2c-9078-d762fff82ea1" />
+
 <pre>
  - creates an empty text file
 </pre>
@@ -108,5 +118,49 @@ rm -r (folder_name)
 ```
 <pre>
  - removes the folder
+</pre>
+
+## List Directory Content
+
+```
+ls
+```
+<pre>
+- prints all the files and folders from the current directory
+- does not show the hidden files and folders
+- it is presented in a tabular format
+</pre>
+```
+ls -l
+```
+<pre>
+- prints all the files and folders from the current directory
+- does not show the hidden files and folders
+- it is presented in a list format
+</pre>
+```
+ls -la
+```
+<pre>
+- prints all the files and folders from the current directory
+- shows all the hidden files and folders
+- it is presented in a list format
+</pre>
+```
+ls -a
+```
+<pre>
+- prints all the files and folders from the current directory
+- shows all the hidden files and folders
+- it is presented in a tabular format
+</pre>
+```
+ls -A
+```
+<pre>
+- prints all the files and folders from the current directory
+- shows all hidden files and folders except . and ..
+- it is presented in a tabular format
+
 </pre>
 
