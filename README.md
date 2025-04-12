@@ -40,6 +40,18 @@ mkdir (folder_name)
  - creates a folder in present working directory
 </pre>
 
+## Getting inside a directory
+```
+cd ~
+pwd
+mkdir sriram
+cd srimam
+pwd
+```
+
+Expected output
+
+
 ## Adding User Command
 ```
 sudo -m useradd (username)
