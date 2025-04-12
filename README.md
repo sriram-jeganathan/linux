@@ -50,6 +50,8 @@ pwd
 ```
 
 Expected output
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/c320287c-32ee-4c3f-b414-1acbca7d2a4d" />
+
 
 
 ## Adding User Command
