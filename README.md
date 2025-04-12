@@ -36,6 +36,7 @@ Expected Output
 ```
 touch (file_name).(extension)
 ```
+Expected Output
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/aa7baa38-fef0-4b2c-9078-d762fff82ea1" />
 
 <pre>
@@ -46,6 +47,9 @@ touch (file_name).(extension)
 ```
 mkdir (folder_name)
 ```
+Expected Output
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/a054a5ed-175f-43d2-a780-d71fbd117d9a" />
+
 <pre>
  - creates a folder in present working directory
 </pre>
@@ -108,6 +112,9 @@ switch (user)
 ```
 rm (file_name).(extension)
 ```
+Expected Output
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/48b3d2dd-bfb4-419a-b128-5d95519e61d8" />
+
 <pre>
  - removes a file
 </pre>
@@ -116,6 +123,9 @@ rm (file_name).(extension)
 ```
 rm -r (folder_name)
 ```
+Expected Output
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/73462e3e-71a5-4db5-b429-da4c2e6f0910" />
+
 <pre>
  - removes the folder
 </pre>
