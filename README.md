@@ -70,15 +70,18 @@ Expected output
 
 ## Adding User Command
 ```
-sudo -m useradd (username)
+sudo useradd -m (username)
 ```
+Expected Output
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/96e92caf-4cd0-4210-875d-11b12251a4ec" />
+
 <pre>
  - creates a user. sudo is required as this program is for administrators
 </pre>
 
 ## Deleting User Command
 ```
-userdel - sudo userdel (username)
+sudo userdel (username)
 ```
 <pre>
  - deletes a user
