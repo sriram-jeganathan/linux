@@ -45,7 +45,7 @@ mkdir (folder_name)
 cd ~
 pwd
 mkdir sriram
-cd srimam
+cd sriram
 pwd
 ```
 
