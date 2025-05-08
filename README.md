@@ -105,6 +105,9 @@ Expected Output
 ```
 pwd
 ```
+Expected Output
+![image](https://github.com/user-attachments/assets/2bd39c9d-a220-49c5-97cd-530d072d07cb)
+
 <pre>
  - shows the present working directory
 </pre>
@@ -113,6 +116,9 @@ pwd
 ```
 switch (user)
 ```
+Expected Output
+![image](https://github.com/user-attachments/assets/913f6531-d5e7-40a8-bd93-d95fe9e8f9c0)
+
 <pre>
  - switches to a particular user with a password. if no username entered, it will enter be taken as admin if perms given
 </pre>
@@ -144,6 +150,9 @@ Expected Output
 ```
 ls
 ```
+Expected Output
+![image](https://github.com/user-attachments/assets/8cc9f61f-6af2-4d2b-bdc3-95497f6a37b1)
+
 <pre>
 - prints all the files and folders from the current directory
 - does not show the hidden files and folders
@@ -152,6 +161,9 @@ ls
 ```
 ls -l
 ```
+Expected Output
+![image](https://github.com/user-attachments/assets/773ce867-ce2c-4154-b260-0d006291a558)
+
 <pre>
 - prints all the files and folders from the current directory
 - does not show the hidden files and folders
@@ -160,6 +172,9 @@ ls -l
 ```
 ls -la
 ```
+Expected Output
+![image](https://github.com/user-attachments/assets/c1e402ef-8394-4f49-a004-81b0f03290e7)
+
 <pre>
 - prints all the files and folders from the current directory
 - shows all the hidden files and folders
@@ -168,6 +183,9 @@ ls -la
 ```
 ls -a
 ```
+Expected Output
+![image](https://github.com/user-attachments/assets/362a4976-e7d3-43bd-bce9-496a57b6768c)
+
 <pre>
 - prints all the files and folders from the current directory
 - shows all the hidden files and folders
@@ -176,6 +194,9 @@ ls -a
 ```
 ls -A
 ```
+Expected Output
+![image](https://github.com/user-attachments/assets/28dbd961-cdaf-4f06-987d-8de5fd3ecac6)
+
 <pre>
 - prints all the files and folders from the current directory
 - shows all hidden files and folders except . and ..
