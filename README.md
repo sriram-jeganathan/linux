@@ -83,6 +83,9 @@ Expected Output
 ```
 sudo userdel (username)
 ```
+Expected Output
+![image](https://github.com/user-attachments/assets/b12f8bda-a791-476f-a456-91e9862fbb7e)
+
 <pre>
  - deletes a user
 </pre>
