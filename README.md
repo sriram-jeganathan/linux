@@ -94,6 +94,9 @@ Expected Output
 ```
 tree (directory)
 ```
+Expected Output
+![image](https://github.com/user-attachments/assets/8e76b3a7-1ea7-4ed2-8766-2e4bea1c57b1)
+
 <pre>
  - shows the current location with a tree format
 </pre>
