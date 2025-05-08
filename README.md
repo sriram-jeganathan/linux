@@ -204,3 +204,15 @@ Expected Output
 
 </pre>
 
+## Cut Command
+```
+echo $(variable) | cut -d "x" -f n-
+```
+Expected Output
+![image](https://github.com/user-attachments/assets/64cfd2cf-2dc5-4da2-a9a8-8992fccb8b8c)
+
+<pre>
+ - x = delimitter
+ - n = column number or word number, the value must be greater than or equal to 1
+ - -f n- prints all the words from the nth word to the last
+</pre>
