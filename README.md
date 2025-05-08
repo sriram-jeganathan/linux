@@ -216,3 +216,62 @@ Expected Output
  - n = column number or word number, the value must be greater than or equal to 1
  - -f n- prints all the words from the nth word to the last
 </pre>
+
+## If control statements
+<pre>
+ Comparing two strings as a condition
+</pre>
+
+```
+if test $variable1 == $variable2; then
+     echo "Both variables are equal"
+fi
+```
+Expected Output
+![image](https://github.com/user-attachments/assets/dd2388b1-ba42-4c66-8572-8e9124794371)
+
+<pre>
+ - test is required to compare string type variables
+</pre>
+
+<pre>
+ Comparing two numbers as a condition
+</pre>
+
+```
+if (( $num1  == $num2 )); then
+     echo "The numbers are equal"
+else
+     echo "The number are not equal"
+fi
+```
+Expectedd Output
+![image](https://github.com/user-attachments/assets/2ce839a4-2f74-4ae0-a634-7fb8b0f51364)
+
+<pre>
+ - in place of (==), we can also use (<=),(>=),(!=),(<),(>)
+</pre>
+
+```
+if [ $num1 -lt $num2 ]; then
+     echo "$num2 is greater than $num1"
+else
+     echo "$num1 is greater than $num2"
+fi
+```
+Expected Output
+![image](https://github.com/user-attachments/assets/1779f353-cb9c-45bb-9bc4-eb3407fa1af2)
+
+
+<pre>
+ - lt stands for less than
+ - similarly (-gt = greater than), (-ge = greater than or equal to), (-le = less than or equal to), (-eq = equal to) and so on . . .
+</pre>
+
+
+
+
+
+
+
+
