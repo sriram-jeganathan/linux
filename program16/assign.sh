@@ -3,7 +3,7 @@
 
 # The Program is to input a number from the user which creates the commanded number of random number and uploads it to a file. The file is read and even, prime and odd numbers are segregated into seperate files
 
-# In this case, we take numbers as 100
+# In this case, we take numbers as 202
 echo -n "Enter the amount of numbers: " 
 read numbers
 
